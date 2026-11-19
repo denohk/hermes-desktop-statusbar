@@ -1,0 +1,3 @@
+*.broken
+plugin.js.bak-*
+.publish-token*
