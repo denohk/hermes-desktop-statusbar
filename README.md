@@ -2,12 +2,18 @@
 
 **The Hermes CLI status bar — finally inside the desktop app. Plus one-click New / Stop / Sessions.**
 
+[![MIT](https://img.shields.io/badge/license-MIT-4c8cff)](LICENSE)
+![single file](https://img.shields.io/badge/plugin-single--file-3ddc97)
+![no telemetry](https://img.shields.io/badge/telemetry-none-888)
+
+![Hermes desktop status bar with the model, context meter, cache hit rate, tokens per second and New / Stop / Sessions buttons](assets/statusbar.png)
+
 A single-file plugin for the [Hermes Agent](https://hermes-agent.nousresearch.com/docs) desktop app that puts
 live model, **context usage %**, cache hit rate, tokens/sec and token counts in the status bar — and adds the
 three buttons you reach for all day.
 
 ```
-deepseek-v4.1-flash │ [████░░░░░░] 42% │ 12.3k/200k │ ◎ 87% │ ↑42 t/s │ ↑1.2k ↓340   ＋  ■  ☰
+deepseek-v4.1-flash │ [███░░░░░░░] 46% │ 456.6k/1.0M │ ◎ 96% │ ↑ 63 t/s │ ↑457.2k ↓8.1k   ＋  ■  ☰
 ```
 
 ---
