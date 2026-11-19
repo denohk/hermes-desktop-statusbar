@@ -1,5 +1,7 @@
 # Hermes Desktop Status Bar
 
+**English** · [繁體中文說明書](README.zh-HK.md)
+
 **The Hermes CLI status bar — finally inside the desktop app. Plus one-click New / Stop / Sessions.**
 
 [![MIT](https://img.shields.io/badge/license-MIT-4c8cff)](LICENSE)
