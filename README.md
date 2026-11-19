@@ -14,6 +14,8 @@ A single-file plugin for the [Hermes Agent](https://hermes-agent.nousresearch.co
 live model, **context usage %**, cache hit rate, tokens/sec and token counts in the status bar — and adds the
 three buttons you reach for all day.
 
+> **If this saves you a click, a ⭐ on the repo helps other Hermes users find it.**
+
 ```
 deepseek-v4.1-flash │ [███░░░░░░░] 46% │ 456.6k/1.0M │ ◎ 96% │ ↑ 63 t/s │ ↑457.2k ↓8.1k   ＋  ■  ☰
 ```
