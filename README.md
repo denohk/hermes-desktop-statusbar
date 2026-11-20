@@ -28,6 +28,9 @@ The desktop app ships these readouts **hidden by default** (`context-usage`, `ca
 start out of the way), and even when you turn them on you get three separate pills with no token counts and no
 "how big is my context window" number.
 
+*(Also searched for as: Hermes desktop status bar, Hermes desktop plugin, context usage indicator,
+token counter for Hermes Agent, status line for Hermes desktop, model info widget.)*
+
 This plugin renders the whole reading in **one glance-sized chip**, in the same visual language as the CLI's
 bottom bar — bar graph, percent sign and all — and it keeps working **from the first second of a session**
 (not just after a turn completes, which is when the live usage stream finally has numbers).
@@ -120,6 +123,13 @@ those three pills don't show the window size, the token counts, or any actions.
 Ideas and PRs welcome — this is a single file, keep it that way.
 
 ---
+
+## Links
+
+- **Telegram channel** (install notes, updates): <https://t.me/hermes_desktop_plugins>
+- **X / Twitter**: <https://x.com/DennisMusk>
+- **Instagram**: <https://instagram.com/denissmusk>
+- **Releases** (v1.0.0 zip): <https://github.com/denohk/hermes-desktop-statusbar/releases>
 
 ## License
 
